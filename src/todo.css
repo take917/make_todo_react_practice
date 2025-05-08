@@ -1,0 +1,6 @@
+.input_box {
+  display: flex;
+  margin: 8px;
+  align-items: center;
+  justify-content: center;
+}
